@@ -36,8 +36,6 @@ Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
 
-<<<<<<< HEAD
-
 1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 3. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
